@@ -51,3 +51,9 @@ Tag para estruturação, muito utilizada para deixar as divisões, principalment
     </div>
 </fieldset>
 ```
+
+## Iframes
+A "mesma coisa" que o antigo embed, permite que uma janela seja criada onde conteúdos de terceiros sejam inseridos.
+```
+<iframe src="https://web.dio.me/home">
+```
